@@ -1,4 +1,4 @@
-# Zio-Qwiic-Relay-Module
+# Zio Qwiic Relay Module
 
 ![](relay.png)
 
