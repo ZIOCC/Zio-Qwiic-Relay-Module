@@ -34,7 +34,7 @@ By adding an I2C gateway MCU (ATTINY85-20SU), we have turned this relay module i
 
 > This Qwiic version Relay module is referenced from [Sparkfun's Qwiic Relay](https://www.sparkfun.com/products/14712) design and their firmware.
 
-> The gateway MCU is ATTINY85-20SU, check the datasheet [here](https://www.mouser.com/datasheet/2/268/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATti-1315542.pdf).
+> The gateway MCU is ATTINY85-20SU, check out the datasheet [here](https://www.mouser.com/datasheet/2/268/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATti-1315542.pdf).
 
 
 > ###### About Zio
