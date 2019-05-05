@@ -32,7 +32,7 @@ By adding an I2C gateway MCU (ATTINY85-20SU), we have turned this relay module i
 * [Schematic](https://github.com/ZIOCC/Zio-Qwiic-Relay-Module/blob/master/Zio%20Qwiic%20Relay%20Module%20Schematic%20PDF.pdf)
 * [Gateway firmware](https://github.com/ZIOCC/Zio-Qwiic-Relay-Module/tree/master/firmware/Qwiic_Relay_Gateway_Firmware)
 
-> This Qwiic version Relay module is referenced from sparkfun's Qwiic Relay design and their firmware, checkout sparkfun's product link [here](https://www.sparkfun.com/products/14712).
+> This Qwiic version Relay module is referenced from [Sparkfun's Qwiic Relay](https://www.sparkfun.com/products/14712) design and their firmware.
 
 > The gateway MCU is ATTINY85-20SU, check the datasheet [here](https://www.mouser.com/datasheet/2/268/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATti-1315542.pdf).
 
