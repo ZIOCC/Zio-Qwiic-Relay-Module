@@ -1,9 +1,5 @@
 # Zio-Qwiic-Relay-Module
 
-> This Qwiic version Relay module referred sparkfun's Qwiic Relay design and their firmware, checkout sparkfun's product link [here](https://www.sparkfun.com/products/14712).
-
-> The gateway MCU is ATTINY85-20SU, check the datasheet [here](https://www.mouser.com/datasheet/2/268/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATti-1315542.pdf).
-
 ![](relay.png)
 
 > This product can be available for purchase [here](https://www.smart-prototyping.com/Zio-Qwiic-Relay).
@@ -36,10 +32,12 @@ By adding an I2C gateway MCU (ATTINY85-20SU), we have turned this relay module i
 * [Schematic](https://github.com/ZIOCC/Zio-Qwiic-Relay-Module/blob/master/Zio%20Qwiic%20Relay%20Module%20Schematic%20PDF.pdf)
 * [Gateway firmware](https://github.com/ZIOCC/Zio-Qwiic-Relay-Module/tree/master/firmware/Qwiic_Relay_Gateway_Firmware)
 
+> This Qwiic version Relay module referred sparkfun's Qwiic Relay design and their firmware, checkout sparkfun's product link [here](https://www.sparkfun.com/products/14712).
+
+> The gateway MCU is ATTINY85-20SU, check the datasheet [here](https://www.mouser.com/datasheet/2/268/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATti-1315542.pdf).
 
 
-
-###### About Zio
+> ###### About Zio
 > Zio is a new line of open sourced, compact, and grid layout boards, fully integrated for Arduino and Qwiic ecosystem. Designed ideally for wearables, robotics, small-space limitations or other on the go projects. Check out other awesome Zio products [here](https://www.smart-prototyping.com/Zio).
 
 
